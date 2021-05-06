@@ -1,0 +1,1 @@
+document.writeln("<div style=\'background:#fffbf8;border: 1px solid #e6d8b9;font-size:15px;text-align:center\'><strong><font color=\'green\'>紧急公告：</font><br /><font color=\'red\'>因全网资源失效，本站资源处于重组状态</strong></font><br /><font color=\'blue\'>若无播放地址或缺失某集，请在搜索框重新搜索。</font><br /><font color=\'black\'>本站不盈利，请点击播放器下放广告支持一下。谢谢！</font></div>");
